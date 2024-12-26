@@ -5,7 +5,7 @@ Ce projet implémente une application web CRUD utilisant Flask et MySQL pour gé
 ## Stack Technique
 
 - **Backend** : Flask avec flask-mysqldb
-- **Frontend** : Bootstrap 5.2.3
+- **Frontend** : HTML , Bootstrap 
 - **Base de données** : MySQL
 
 ## Structure de la Base de Données
